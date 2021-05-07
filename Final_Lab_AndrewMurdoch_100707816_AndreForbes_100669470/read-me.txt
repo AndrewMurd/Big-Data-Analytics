@@ -1,0 +1,14 @@
+
+- The task 6 code is held in the lab10 python file. 
+
+- The current python program loads both saved models and classifies the test data.
+
+- The folder "seqModel1" holds the saved fixed learning rate model.
+
+- The folder "seqModel2" holds the saved changing learning rate model (adam optimizer).
+
+- The "pred1" file holds the predictions for "seqModel1".
+
+- The "pred2" file holds the predictions for "seqModel2".
+
+- The "Predictions" file holds the predictions for Task 5.
